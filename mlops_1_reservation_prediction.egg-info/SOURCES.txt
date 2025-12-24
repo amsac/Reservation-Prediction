@@ -1,3 +1,4 @@
+README.md
 setup.py
 config/__init__.py
 config/paths_config.py
@@ -6,5 +7,9 @@ mlops_1_reservation_prediction.egg-info/SOURCES.txt
 mlops_1_reservation_prediction.egg-info/dependency_links.txt
 mlops_1_reservation_prediction.egg-info/requires.txt
 mlops_1_reservation_prediction.egg-info/top_level.txt
+src/CustomException.py
+src/__init__.py
+src/data_ingestion.py
+src/logger.py
 utils/__init__.py
 utils/common_functions.py

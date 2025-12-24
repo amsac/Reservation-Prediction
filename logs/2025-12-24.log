@@ -3,3 +3,39 @@
 2025-12-24 04:53:41,011-INFO-strted program
 2025-12-24 04:53:41,011-ERROR-error occured
 2025-12-24 04:53:41,011-ERROR-Error in /Users/akhilvinayak/work/python/mlops-1-reservation-prediction/testingException.py , line 8 : zero error custom
+2025-12-24 09:18:51,618-INFO-succesfully loaded config file from config/config.yaml
+2025-12-24 09:19:32,413-INFO-succesfully loaded config file from config/config.yaml
+2025-12-24 09:19:56,321-INFO-succesfully loaded config file from config/config.yaml
+2025-12-24 09:20:12,375-INFO-succesfully loaded config file from config/config.yaml
+2025-12-24 09:20:12,376-INFO-Data ingestion started with bucket-udemy-akhil in file Hotel Reservations.csv
+2025-12-24 09:20:12,376-INFO-Starting data ingestion process
+2025-12-24 09:20:21,569-ERROR-Error while downloading the csv file
+2025-12-24 09:20:21,570-ERROR-CustomException : Error in /Users/akhilvinayak/work/python/mlops-1-reservation-prediction/src/data_ingestion.py , line 24 : Failed to downlaod csv file 
+2025-12-24 09:20:21,570-INFO-Data ingestion completed
+2025-12-24 09:22:19,062-INFO-succesfully loaded config file from config/config.yaml
+2025-12-24 09:22:19,063-INFO-Data ingestion started with bucket-udemy-akhil in file Hotel Reservations.csv
+2025-12-24 09:22:19,063-INFO-Starting data ingestion process
+2025-12-24 09:22:28,118-ERROR-Error while downloading the csv file
+2025-12-24 09:22:28,119-ERROR-CustomException : Error in /Users/akhilvinayak/work/python/mlops-1-reservation-prediction/src/data_ingestion.py , line 24 : Failed to downlaod csv file 
+2025-12-24 09:22:28,119-INFO-Data ingestion completed
+2025-12-24 09:28:10,722-INFO-succesfully loaded config file from config/config.yaml
+2025-12-24 09:28:10,722-INFO-Data ingestion started with bucket-udemy-akhil in file Hotel Reservations.csv
+2025-12-24 09:28:10,722-INFO-Starting data ingestion process
+2025-12-24 09:28:19,647-ERROR-Error while downloading the csv file
+2025-12-24 09:28:19,650-ERROR-CustomException : Error in /Users/akhilvinayak/work/python/mlops-1-reservation-prediction/src/data_ingestion.py , line 24 : Failed to downlaod csv file 
+2025-12-24 09:28:19,650-INFO-Data ingestion completed
+2025-12-24 09:29:27,425-INFO-succesfully loaded config file from config/config.yaml
+2025-12-24 09:29:27,426-INFO-Data ingestion started with bucket-udemy-akhil in file Hotel Reservations.csv
+2025-12-24 09:29:27,426-INFO-Starting data ingestion process
+2025-12-24 09:29:36,544-ERROR-Error while downloading the csv file
+2025-12-24 09:29:36,544-ERROR-CustomException : Error in /Users/akhilvinayak/work/python/mlops-1-reservation-prediction/src/data_ingestion.py , line 24 : Failed to downlaod csv file 
+2025-12-24 09:29:36,545-INFO-Data ingestion completed
+2025-12-24 09:29:50,109-INFO-succesfully loaded config file from config/config.yaml
+2025-12-24 09:29:50,109-INFO-Data ingestion started with bucket-udemy-akhil in file Hotel Reservations.csv
+2025-12-24 09:29:50,109-INFO-Starting data ingestion process
+2025-12-24 09:29:55,413-INFO-CSV file is sucesfully downloaded to artifacs/raw/raw.csv
+2025-12-24 09:29:55,413-INFO-Starting the splitting process
+2025-12-24 09:29:55,603-INFO-Train data saved to artifacs/raw/train.csv
+2025-12-24 09:29:55,603-INFO-Test data saved to artifacs/raw/test.csv
+2025-12-24 09:29:55,605-INFO-Data ingestion completed sucesfully
+2025-12-24 09:29:55,605-INFO-Data ingestion completed

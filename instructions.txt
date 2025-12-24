@@ -4,3 +4,7 @@ source venv/bin/activate
 
 
 pip install -e .
+
+for app credentials
+export GOOGLE_APPLICATION_CREDENTIALS="/Users/akhilvinayak/Downloads/upheld-booking-475412-n5-08eabb9f91d3.json"
+echo $GOOGLE_APPLICATION_CREDENTIALS
