@@ -1,0 +1,5 @@
+2025-12-24 04:52:29,583-INFO-Hello World!
+2025-12-24 04:52:49,696-INFO-Hello World!
+2025-12-24 04:53:41,011-INFO-strted program
+2025-12-24 04:53:41,011-ERROR-error occured
+2025-12-24 04:53:41,011-ERROR-Error in /Users/akhilvinayak/work/python/mlops-1-reservation-prediction/testingException.py , line 8 : zero error custom
